@@ -1,0 +1,36 @@
+{
+  "name": "ep-2_exercise",
+  "version": "1.0.0",
+  "description": "This our 2nd exercise of namaste react",
+  "scripts": {
+    "start":"npx parcel index.html",
+    "build":"npx parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sonia0612/Assignment-2-igniting-our-app.git"
+  },
+  "keywords": [
+    "exercise",
+    "react"
+  ],
+  "author": "Sonia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonia0612/Assignment-2-igniting-our-app/issues"
+  },
+  "homepage": "https://github.com/Sonia0612/Assignment-2-igniting-our-app#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+  ,
+  "browserslist":[
+    "last 2 Chrome version"
+  ]
+}
