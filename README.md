@@ -1,4 +1,4 @@
-# Episode-1-Igniting our app-
+# Episode-2-Igniting our app-
 ## Theory
 
 Qn1.? What is NPM?
